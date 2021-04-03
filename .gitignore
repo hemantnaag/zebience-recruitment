@@ -8,3 +8,10 @@ dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
+RecruitmentSpringBootTest/bin/.settings/org.eclipse.core.resources.prefs
+RecruitmentSpringBootTest/bin/.project
+RecruitmentSpringBootTest/.settings/org.springframework.ide.eclipse.prefs
+RecruitmentSpringBootTest/.settings/org.eclipse.jdt.core.prefs
+RecruitmentSpringBootTest/.settings/org.eclipse.core.resources.prefs
+RecruitmentSpringBootTest/.project
+RecruitmentSpringBootTest/.classpath
